@@ -1,0 +1,1 @@
+![CI/CD](https://github.com/MolkovOleg/gitlab-ci-cd-example/workflows/CI%2FCD%20Pipeline/badge.svg)
