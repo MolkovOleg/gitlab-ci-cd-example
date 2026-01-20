@@ -1,0 +1,8 @@
+version: '3'
+services:
+  cicd-example:
+    image: example-backed:latest
+    container_name: example-backend
+    ports:
+      - "8080:8080"
+    restart: always
