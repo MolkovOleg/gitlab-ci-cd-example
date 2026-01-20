@@ -1,7 +1,7 @@
 version: '3'
 services:
   cicd-example:
-    image: example-backed:latest
+    image: example-backend:latest
     container_name: example-backend
     ports:
       - "8080:8080"
